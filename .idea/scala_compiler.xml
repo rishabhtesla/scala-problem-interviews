@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ScalaCompilerConfiguration">
-    <profile name="sbt 1" modules="scala-problems-interviews" />
+    <option name="separateProdTestSources" value="true" />
+    <profile name="sbt 1" modules="scala-problems-interviews,scala-problems-interviews.main,scala-problems-interviews.test,scala-problems-interviews_4277,scala-problems-interviews_4277.main,scala-problems-interviews_4277.test,scala-problems-interviews_8338,scala-problems-interviews_8338.main,scala-problems-interviews_8338.test" />
   </component>
 </project>
